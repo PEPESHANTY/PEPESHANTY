@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm [Your Name]
 
-<!--
-**PEPESHANTY/PEPESHANTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate at University College Dublin 🇮🇪 | ☁️ Cloud & AI Enthusiast | 🧠 Passionate about Data, Models & Scalable Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **cloud-based AI and data engineering projects** using AWS (S3, EC2, RDS, Redshift) and PostgreSQL/Oracle  
+- 🌱 I’m currently learning and building with **GenAI, LLMs, and Machine Learning** using Python (Pandas, Sklearn, LangChain, OpenAI APIs)  
+- 🤖 I also have hands-on experience in **Java backend development** with Spring Boot and Microservices  
+- 🤝 I’m looking to collaborate on **AI/ML projects, cloud-native apps, or data-driven systems**  
+- 💬 Ask me about **AWS, Python, SQL optimization, and GenAI-based chatbot development**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shantanubhute)  
+- ⚡ Fun fact: I love FPS gaming, trading, and building AI tools during weekends  
+
+---
+Thanks for visiting! Let’s build something amazing 💻🚀
