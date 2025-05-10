@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Shantanu
 
 🎓 Computer Science graduate at University College Dublin 🇮🇪 | ☁️ Cloud & AI Enthusiast | 🧠 Passionate about Data, Models & Scalable Systems
-
+[![](https://visitcount.itsvg.in/api?id=PEPESHANTY&icon=1&color=1)](https://visitcount.itsvg.in)
 ---
 
 - 🔭 I’m currently working on **cloud-based AI and data engineering projects** using python, AWS (S3, EC2, RDS, Redshift) and PostgreSQL/Oracle  
