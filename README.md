@@ -3,6 +3,8 @@
 🎓 Computer Science graduate at University College Dublin 🇮🇪 | ☁️ Cloud & AI Enthusiast | 🧠 Passionate about Data, Models & Scalable Systems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PEPESHANTY&style=flat-square&color=00ccff)
+![Profile Views](https://komarev.com/ghpvc/?username=PEPESHANTY&label=PROFILE%20VIEWS&color=007ec6&style=flat-square)
+
 ---
 
 - 🔭 I’m currently working on **cloud-based AI and data engineering projects** using python, AWS (S3, EC2, RDS, Redshift) and PostgreSQL/Oracle  
