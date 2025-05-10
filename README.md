@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love FPS gaming, trading, and building AI tools during weekends
   
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=+++Crafting+Intelligent+Data-Driven+Systems+++;Generative+AI+Solutions+Architect;Cloud-Native+ML+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Crafting+Intelligent+Data-Driven+Systems;Generative+AI+Solutions+Architect;Cloud-Native+ML+Systems" alt="Typing SVG" />
 </div>
 
 ## 🌐 Socials:
