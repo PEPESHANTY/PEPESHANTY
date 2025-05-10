@@ -2,7 +2,7 @@
 
 🎓 Computer Science graduate at University College Dublin 🇮🇪 | ☁️ Cloud & AI Enthusiast | 🧠 Passionate about Data, Models & Scalable Systems
 ---
-[![](https://visitcount.itsvg.in/api?id=PEPESHANTY&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=PEPESHANTY&style=flat-square&color=00ccff)
 
 ---
 
