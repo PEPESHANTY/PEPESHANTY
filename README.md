@@ -12,8 +12,11 @@
 - 🤝 I’m looking to collaborate on **AI/ML projects, cloud-native apps, or data-driven systems**  
 - 💬 Ask me about **AWS, Python, SQL optimization, and GenAI-based chatbot development**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shantanubhute)  
-- ⚡ Fun fact: I love FPS gaming, trading, and building AI tools during weekends  
-
+- ⚡ Fun fact: I love FPS gaming, trading, and building AI tools during weekends
+  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=+++Crafting+Intelligent+Data-Driven+Systems+++;Generative+AI+Solutions+Architect;Cloud-Native+ML+Systems" alt="Typing SVG" />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2Wv8mQTDmN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shanty_vibezz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanubhute/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PePeShanty18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shantanu_bhute) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shantanubhute@gmail.com) 
