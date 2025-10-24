@@ -45,7 +45,8 @@
 [![](https://visitcount.itsvg.in/api?id=PEPESHANTY&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## 💰 Buy me a Gaming PC 🖥️🤖😆
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://ko-fi.com/shantanubhute)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shantanubhute)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
